@@ -1,15 +1,14 @@
-## My Project
+## Building Serverless Applications with Terraform 
 
-TODO: Fill this README out!
+This repository contains a sample project accompanying the guide published at {link}
 
-Be sure to:
+#### Solution architecture
 
-* Change the title in this README
-* Edit your repository description on GitHub
+![](solution-architecture-with-iam.png)
 
-## Security
+#### Terraform modules layout
 
-See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
+![](module8.png)
 
 ## License
 
