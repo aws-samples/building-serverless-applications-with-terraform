@@ -1,3 +1,6 @@
+// Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+// SPDX-License-Identifier: MIT-0
+
 # Create IAM Role and policy for invoking the Greetings Queue
 resource "aws_iam_role" "api_gateway_greeting_queue_role" {
   name = "api_gateway_greeting_queue_role"

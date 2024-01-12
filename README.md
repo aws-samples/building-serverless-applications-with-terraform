@@ -4,7 +4,7 @@ This repository contains a sample project accompanying the guide published at {l
 
 #### Solution architecture
 
-![](solution-architecture-with-iam.png)
+![](module6.png)
 
 #### Terraform modules layout
 
