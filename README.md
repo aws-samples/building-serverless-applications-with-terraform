@@ -1,6 +1,6 @@
 ## Building Serverless Applications with Terraform 
 
-This repository contains a sample project accompanying the guide published at {link}
+This repository contains a sample project accompanying the guide published [here](https://serverlessland.com/content/guides/building-serverless-applications-with-terraform/01-introduction)
 
 #### Solution architecture
 
